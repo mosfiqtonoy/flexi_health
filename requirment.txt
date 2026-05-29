@@ -1,1 +1,7 @@
-
+streamlit
+pandas
+numpy
+sql3
+seaborn
+matplotlib
+scikit learn
